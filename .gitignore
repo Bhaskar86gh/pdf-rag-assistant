@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+# Vector database + stored data
+data/
+
+# Python environment
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
